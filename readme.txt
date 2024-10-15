@@ -1,4 +1,3 @@
 [archive]² repository
 
-"A better alternative to Internet Archive"
-
+https://archive-2.github.io
