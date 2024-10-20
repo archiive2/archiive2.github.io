@@ -17,5 +17,5 @@ th {
   background: navy;
   color: yellow;
   text-shadow: 2px 2px 2px black;
-  margin-left: 0;
+  margin-left: none;
 }
