@@ -8,7 +8,7 @@ body {
 }
 
 table {
-  border: 5px outset;
+  border: 3px outset;
 }
 
 table.center {
@@ -18,7 +18,6 @@ table.center {
 }
 
 th {
-  margin: 15px;
   background: navy;
   color: yellow;
   font-family: "Times New Roman";
@@ -27,5 +26,5 @@ th {
 
 td {
   margin: 15px;
-  border: 2.5px inset;
+  border: 1.5px inset;
 }
