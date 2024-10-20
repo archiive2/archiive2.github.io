@@ -29,6 +29,6 @@ td {
   border: 2px inset;
 }
 .alert {
-  background: cursor: firebrick;
+  background: firebrick;
   border: solid 3px red;
 }
