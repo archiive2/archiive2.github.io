@@ -4,5 +4,9 @@
 
 body {
   background: white;
-  font-family: Verdana;
+  font-family: ;
+}
+
+table {
+  border: 5px outset;
 }
