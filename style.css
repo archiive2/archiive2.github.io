@@ -14,7 +14,7 @@ table {
   margin-right: auto;
 }
 
-thead {
+th {
   background: navy;
   color: yellow;
   text-shadow: 2px 2px 2px black;
