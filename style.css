@@ -14,7 +14,8 @@ table {
 }
 
 th {
-  background: black;
-  color: dodgerblue;
-  text-shadow: 2px 2px 2px white;
+  background: navy;
+  color: yellow;
+  text-shadow: 2px 2px 2px black;
+  margin-left: 0;
 }
