@@ -9,13 +9,14 @@ body {
 
 table {
   border: 5px outset;
-  margin: auto;
   width: 66%;
+  margin-left: 50%;
+  margin-right: 50%;
 }
 
 th {
   background: navy;
   color: yellow;
   text-shadow: 2px 2px 2px black;
-  margin-left: none;
+  
 }
