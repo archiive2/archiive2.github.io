@@ -20,6 +20,7 @@ table.center {
 
 th {
   margin: 15px;
+  margin-left: 15px;
   background: navy;
   color: yellow;
   font-family: "Times New Roman";
