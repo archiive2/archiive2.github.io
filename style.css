@@ -13,10 +13,6 @@ table {
   width: 66%;
 }
 
-thead, tbody {
-  margin: 5px;
-}
-
 th {
   background: black;
   color: dodgerblue;
