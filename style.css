@@ -9,6 +9,9 @@ body {
 
 table {
   border: 5px outset;
+}
+
+table.center {
   width: 66%;
   margin-left: auto;
   margin-right: auto;
