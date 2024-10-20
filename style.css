@@ -10,8 +10,8 @@ body {
 table {
   border: 5px outset;
   width: 66%;
-  margin-left: 50%;
-  margin-right: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 th {
